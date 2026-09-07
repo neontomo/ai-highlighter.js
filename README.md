@@ -10,36 +10,49 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 > — / –
 
 ### words
+```
 > delve / pivotal / embark / spearheaded
 
 ### comparisons
+```
 > it's not X, it's about Y
+> but it's less about X and more about Y
+```
 
 ### hedging + maneuvering
+```
 > no single approach fits all
-
 > but it's essential to balance this with
+```
 
 ### creepy flattery
 ```
-what you said about X really resonates
-incredible. that is exactly the kind of...
+> what you said about X really resonates
+> incredible. that is exactly the kind of...
 ```
 
 ### dramatics + hyperbole
+```
 > let's keep building and protecting
 > i learned the hard way
 > something shifted for me recently
+```
 
 ### unusual gratefulness + helpfulness
+```
 > appreciate your voice here
 > thanks for the thoughtful response
 > thanks for your question
 > wishing you clarity and strength on your own path
+```
 
 ### unusual summarisations + breakdowns
+```
+> to summarize
+> in conclusion
 > the key takeaway is
 > if we break this down
+```
 
 ## how to install
 
