@@ -7,8 +7,8 @@ identifies and marks AI content by looking for common patterns. for example:
 ### dashes
 > — / –
 
-
-> words: delve / pivotal / embark / spearheaded
+### words
+> delve / pivotal / embark / spearheaded
 
 > comparisons: it's not X, it's Y
 
