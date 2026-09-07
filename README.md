@@ -21,16 +21,24 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 > but it's essential to balance this with
 
 ### creepy flattery
-> what you said about X really resonates / incredible. that is exactly the kind of...
+> what you said about X really resonates
+
+> incredible. that is exactly the kind of...
 
 ### dramatics + hyperbole
-> let's keep building and protecting / i learned the hard way / something shifted for me recently
+> let's keep building and protecting
+> i learned the hard way
+> something shifted for me recently
 
 ### unusual gratefulness + helpfulness
-> appreciate your voice here / wishing you clarity and strength on your own path
+> appreciate your voice here
+> thanks for the thoughtful response
+> thanks for your question
+> wishing you clarity and strength on your own path
 
 ### unusual summarisations + breakdowns
-> the key takeaway is / if we break this down
+> the key takeaway is
+> if we break this down
 
 ## how to install
 
