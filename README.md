@@ -11,7 +11,11 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 
 ### words
 ```
-> delve / pivotal / embark / spearheaded
+> delve
+> pivotal
+> embark
+> spearheaded
+```
 
 ### comparisons
 ```
