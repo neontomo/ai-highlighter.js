@@ -1160,14 +1160,14 @@ let global, factory;
 const patterns = {
 	dashes: [/—/, /–/],
 	words: [
-		/\sdelve\s/,
-		/\srealm\s/,
-		/\spivotal\s/,
-		/\scrucial\s/,
-		/\senhance\s/,
-		/\sleverage\s/,
-		/\sembark\s/,
-		/\sspearheaded\s/,
+		/(^|\s)delve(\s|$)/,
+		/(^|\s)realm(\s|$)/,
+		/(^|\s)pivotal(\s|$)/,
+		/(^|\s)crucial(\s|$)/,
+		/(^|\s)enhance(\s|$)/,
+		/(^|\s)leverage(\s|$)/,
+		/(^|\s)embark(\s|$)/,
+		/(^|\s)spearheaded(\s|$)/,
 	],
 	sentences: [
 		// comparisons

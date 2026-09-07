@@ -13,10 +13,11 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 > delve / pivotal / embark / spearheaded
 
 ### comparisons
-> it's not X, it's Y
+> it's not X, it's about Y
 
 ### hedging + maneuvering
-> no single approach fits all / but it's essential to balance this with
+> no single approach fits all
+> but it's essential to balance this with
 
 ### creepy flattery
 > what you said about X really resonates / incredible. that is exactly the kind of...
