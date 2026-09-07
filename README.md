@@ -1,11 +1,11 @@
 # ai-highlighter
 
-identifies and marks AI content by looking for common patterns.
-
-
 ## what it does
 
+identifies and marks AI content by looking for common patterns. for example:
+
 > dashes: — / –
+
 
 > words: delve / pivotal / embark / spearheaded
 
