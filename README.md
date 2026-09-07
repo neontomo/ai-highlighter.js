@@ -6,8 +6,11 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 
 ## examples
 
-### dashes
-> — / –
+### em-dashes
+```
+> —
+> –
+```
 
 ### words
 ```
