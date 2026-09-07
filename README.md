@@ -4,7 +4,8 @@
 
 identifies and marks AI content by looking for common patterns. for example:
 
-> dashes: — / –
+### dashes
+> — / –
 
 
 > words: delve / pivotal / embark / spearheaded
