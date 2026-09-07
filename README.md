@@ -21,9 +21,10 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 > but it's essential to balance this with
 
 ### creepy flattery
-> what you said about X really resonates
-
-> incredible. that is exactly the kind of...
+```
+what you said about X really resonates
+incredible. that is exactly the kind of...
+```
 
 ### dramatics + hyperbole
 > let's keep building and protecting
