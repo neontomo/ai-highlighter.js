@@ -2,7 +2,9 @@
 
 ## what it does
 
-identifies and marks AI content by looking for common patterns. for example:
+identifies and marks AI content by looking for common patterns, because fuck AI.
+
+## examples
 
 ### dashes
 > — / –
@@ -10,17 +12,23 @@ identifies and marks AI content by looking for common patterns. for example:
 ### words
 > delve / pivotal / embark / spearheaded
 
-> comparisons: it's not X, it's Y
+### comparisons
+> it's not X, it's Y
 
-> hedging: no single approach fits all / but it's essential to balance this with
+### hedging + maneuvering
+> no single approach fits all / but it's essential to balance this with
 
-> flattery: what you said about X really resonates / incredible. that is exactly the kind of...
+### creepy flattery
+> what you said about X really resonates / incredible. that is exactly the kind of...
 
-> dramatics: let's keep building and protecting / i learned the hard way / something shifted for me recently
+### dramatics + hyperbole
+> let's keep building and protecting / i learned the hard way / something shifted for me recently
 
-> gratefulness: appreciate your voice here / wishing you clarity and strength on your own path
+### unusual gratefulness + helpfulness
+> appreciate your voice here / wishing you clarity and strength on your own path
 
-> summarisations / breakdowns: the key takeaway is / if we break this down
+### unusual summarisations + breakdowns
+> the key takeaway is / if we break this down
 
 ## how to install
 

@@ -1264,7 +1264,7 @@ const patterns = {
 		/you.{0,1}re not alone in wondering this/,
 		/you.{0,1}re correct to ask that/,
 
-		// dramatic + hyperbole
+		// dramatics + hyperbole
 		/i learned the hardway/,
 		/i learned the hard way/,
 		/and i noticed something strange/,
