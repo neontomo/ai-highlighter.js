@@ -17,6 +17,7 @@ identifies and marks AI content by looking for common patterns, because fuck AI.
 
 ### hedging + maneuvering
 > no single approach fits all
+
 > but it's essential to balance this with
 
 ### creepy flattery
