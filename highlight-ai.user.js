@@ -1247,7 +1247,7 @@ const patterns = {
 		/(^|\s)(explores|exploration)(\s|$)/,
 		/(^|\s)(facilitate|facilitates|facilitated|facilitating)(\s|$)/,
 		/(^|\s)(featuring)(\s|$)/,
-		/(^|\s)(finding|findings)(\s|$)/,
+		/(^|\s)(findings)(\s|$)/,
 		/(^|\s)(formidable)(\s|$)/,
 		/(^|\s)(fostering|fosters)(\s|$)/,
 		/(^|\s)(foundational)(\s|$)/,
